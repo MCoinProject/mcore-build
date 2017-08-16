@@ -1,4 +1,4 @@
-# litecore-build
+# Mcore-build
 
 A helper to add tasks to gulp.
 
@@ -7,7 +7,7 @@ A helper to add tasks to gulp.
 Install with:
 
 ```sh
-npm install litecore-build
+npm install mcore-build
 ```
 
 and use and require in your gulp file: 
@@ -31,11 +31,11 @@ litecoreTasks('submodule', {skipBrowsers: true});
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/litecoin-project/litecore) on the main litecore repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/mcoinproject/mcore) on the main mcore repo for information about how to contribute.
 
 ## License
 
-Code released under [the MIT license](https://github.com/litecoin-project/litecore/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/mcoinproject/mcore/blob/master/LICENSE).
 
 Copyright 2015 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
 Copyright 2016 The Litecoin Core Developers
